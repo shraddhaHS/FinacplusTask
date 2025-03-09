@@ -20,7 +20,6 @@ This is a **User Registration System** built with **React.js (Vite) for the fron
 ✔ Here's the deployment link - [Live Link](https://userregistration-hmgv.onrender.com)
 
 ✔ Here's the postman API documentation for detailed API request/response formats: [Postman API docs](https://www.postman.com/shraddhahs/workspace/user-registration/documentation/37249712-4fabc3e8-f2ff-4c08-b836-fb8cc931bfdf)
->>>>>>> 10fdaed99061145338802fa9f7f8006095a5969e
 
 ---
 
