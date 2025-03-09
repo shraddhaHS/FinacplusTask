@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+a {
+    color: inherit; /* Inherit text color from parent */
+    text-decoration: none; /* Remove underline */
+  }
