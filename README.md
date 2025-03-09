@@ -56,7 +56,7 @@ Ensure you have the following installed and ready:
 ### 2️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/shraddhaHS/FinacplusTask
-cd FinacplusTaskl
+cd FinacplusTask
 ```
 
 ### 3️⃣ Backend Installation  
