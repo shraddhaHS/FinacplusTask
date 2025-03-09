@@ -3,6 +3,20 @@
 ## 🎯 Overview  
 This is a **User Registration System** built with **React.js (Vite) for the frontend** and **Node.js + Express.js with MongoDB for the backend**. The system allows users to **register, log in, view profile details, update profile information, and delete their accounts**.  
 
+### 📸 Screenshots  
+
+#### 🔹 Registration Page  
+![Registration Page](https://github.com/user-attachments/assets/10799324-eb21-4570-8497-655016d9d307) 
+
+#### 🔹 Login   
+![Login Page](https://github.com/user-attachments/assets/680f0667-023a-4927-8a04-ca07187da337) 
+
+#### 🔹 Profile   
+![Profile Page](https://github.com/user-attachments/assets/8f229e30-5ce0-4fd0-bb32-5ccd9a231e9c) 
+
+#### 🔹 Update Profile
+![Update Profile](https://github.com/user-attachments/assets/8f229e30-5ce0-4fd0-bb32-5ccd9a231e9c) 
+
 ---
 
 ## 📌 Table of Contents
