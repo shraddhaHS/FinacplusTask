@@ -201,11 +201,21 @@ const RegistrationForm = () => {
               className="w-full p-2 border border-gray-300 rounded-md bg-white/50 text-gray-900 focus:outline-none focus:ring-2 focus:ring-orange-500"
             >
               <option value="">Select Gender</option>
-              {genders.map((g, index) => (
+              {Array.isArray(genders) && genders.length > 0 ? (
+  genders.map((gender, index) => (
+    <option key={index} value={gender}>
+      {gender}
+    </option>
+  ))
+) : (
+  <option disabled>Loading...</option>
+)}
+
+              {/* {genders.map((g, index) => (
                 <option key={index} value={g}>
                   {g}
                 </option>
-              ))}
+              ))} */}
             </select>
             {errors.gender && <p className="text-red-500 text-sm mt-1">{errors.gender}</p>}
           </div>
