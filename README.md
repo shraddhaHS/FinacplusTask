@@ -1,7 +1,11 @@
 # 💻 User Registration System (MERN Stack)
 
 ## 🎯 Overview  
-This is a **User Registration System** built with **React.js (Vite) for the frontend** and **Node.js + Express.js with MongoDB for the backend**. The system allows users to **register, log in, view profile details, update profile information, and delete their accounts**.  
+This is a **User Registration System** built with **React.js (Vite) for the frontend** and **Node.js + Express.js with MongoDB for the backend**. The system allows users to **register, log in, view profile details, update profile information, and delete their accounts**. 
+
+✔ Here's the deployment link - [Live Link](https://userregistration-hmgv.onrender.com)
+
+✔ Here's the postman API documentation for detailed API request/response formats: [Postman API docs](https://www.postman.com/shraddhahs/workspace/user-registration/documentation/37249712-4fabc3e8-f2ff-4c08-b836-fb8cc931bfdf)
 
 ### 📸 Screenshots  
 
@@ -17,9 +21,6 @@ This is a **User Registration System** built with **React.js (Vite) for the fron
 #### 🔹 Update Profile
 ![Update Profile](https://github.com/user-attachments/assets/8f229e30-5ce0-4fd0-bb32-5ccd9a231e9c) 
 =======
-✔ Here's the deployment link - [Live Link](https://userregistration-hmgv.onrender.com)
-
-✔ Here's the postman API documentation for detailed API request/response formats: [Postman API docs](https://www.postman.com/shraddhahs/workspace/user-registration/documentation/37249712-4fabc3e8-f2ff-4c08-b836-fb8cc931bfdf)
 
 ---
 
