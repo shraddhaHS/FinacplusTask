@@ -53,8 +53,8 @@ Ensure you have the following installed and ready:
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/shraddhaHS/RegistrationAsgmt
-cd RegistrationAsgmt
+git clone https://github.com/shraddhaHS/FinacplusTask
+cd FinacplusTaskl
 ```
 
 ### 3️⃣ Backend Installation  
