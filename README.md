@@ -19,7 +19,7 @@ This is a **User Registration System** built with **React.js (Vite) for the fron
 ![Profile Page](https://github.com/user-attachments/assets/8f229e30-5ce0-4fd0-bb32-5ccd9a231e9c) 
 
 #### 🔹 Update Profile
-![Update Profile](https://github.com/user-attachments/assets/0f78bf26-cfb0-40c5-83c6-e501f8dee7a1)
+![Update Profile](https://github.com/user-attachments/assets/8f59896e-9eab-44ea-acbc-40a080edf1cf)
 =======
 
 ---
